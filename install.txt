@@ -1,3 +1,5 @@
-Just add the a3_epoch_ambiance.pbo to your @epochhive\addons folder
+Adds custom bases to various locations for altis
+
+Just add the a3_epoch_custom.pbo to your @epochhive\addons folder
 
 Depbo the review sqf files as most have instructions at the top.
